@@ -1,0 +1,9 @@
+.imgContainer {
+    background-image: url("../../images/02-portfolio-2.jpg");
+    background-size: cover;
+    width: 100%;
+}
+
+.project-img {
+    width: 400px;
+}
