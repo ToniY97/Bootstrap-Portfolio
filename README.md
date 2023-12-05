@@ -8,3 +8,6 @@ Recreated my portfolio page from assignment 2 with Bootrstrap.
 
 --Link to webpage
 ![link](https://toniy97.github.io/Bootstrap-Portfolio/)
+
+Note* Code for the footer section in index.html was sourced from Stack Overflow.
+Rest of the code was sourced from Bootstrap docs.
