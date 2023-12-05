@@ -1,4 +1,10 @@
 
+/* Jumbotron image size */
+.custom-img {
+    max-width: 50px; 
+    width: 50%; 
+    height: auto; 
+  }
 
 @media screen and (max-width: 768px) {
     .projectSection {
