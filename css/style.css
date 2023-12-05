@@ -6,6 +6,7 @@
     height: auto; 
   }
 
+  /* Code for the footer section */
   footer {
     background: #061D25;
     padding: 10px 0;
@@ -26,7 +27,7 @@
   }
 
 @media screen and (max-width: 768px) {
-    .projectSection {
+    #work {
         flex-direction: column;
     }
 }
